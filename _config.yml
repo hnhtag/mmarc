@@ -1,12 +1,12 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'MMARC'
 
 collections:
-  services:
+  contributions:
     output: true
-    permalink: /services/:path/
+    permalink: /contributions/:path/
   team:
     output: true
     permalink: /team/:path/
@@ -16,7 +16,7 @@ collections:
 
 defaults:
   - scope:
-      type: services
+      type: contributions
     values:
       layout: service
       bodyClass: page-services-single

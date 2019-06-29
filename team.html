@@ -38,6 +38,9 @@ bodyClass: page-team-list
           {% if team.linkedinurl %}
           <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
           {% endif %}
+          {% if team.email %}
+          <a target="_blank" href="mailto:{{ team.email }}">Email</a> 
+          {% endif %}
         </div>
         <div class="team-content">{{ team.content }}</div>
       </div>

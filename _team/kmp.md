@@ -1,7 +1,7 @@
 ---
-title: 'Sage Kirk'
-image: '/images/team/sage-kirk-485982-unsplash.jpg'
-jobtitle: 'Accountant'
+title: 'Kaung Myat Paing'
+image: '/images/team/kmp.jpg'
+jobtitle: 'Founder'
 email: 'sage@test.com'
 linkedinurl: ''
 ---

@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179" height="56.454" viewBox="0 0 179 56.454">
-  <defs>
-    <clipPath id="clip-mmarc">
-      <rect width="179" height="56.454"/>
-    </clipPath>
-  </defs>
-  <g id="mmarc" clip-path="url(#clip-mmarc)">
-    <g id="Group_2" data-name="Group 2" transform="translate(106 -212.736)">
-      <text id="arc" transform="translate(-10.172 256.736)" font-size="45" font-family="CenturyGothic-Italic, Century Gothic" font-style="italic"><tspan x="0" y="0">arc</tspan></text>
-      <text id="mm" transform="translate(-96.36 256.736)" font-size="45" font-family="CenturyGothic-Italic, Century Gothic" font-style="italic"><tspan x="0" y="0">mm</tspan></text>
-      <path id="Path_1" data-name="Path 1" d="M597.69,161.053h2.283s5.4-10.889,18.345-11.345h.01l-.039-2.02A23.951,23.951,0,0,0,597.69,161.053Z" transform="translate(-611.55 71.388)" fill="red"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179" height="56.454" viewBox="0 0 179 56.454"><defs><clipPath id="clip-mmarc"><rect width="179" height="56.454"/></clipPath></defs><g id="mmarc" clip-path="url(#clip-mmarc)"><g id="Group_2" data-name="Group 2" transform="translate(106 -212.736)"><text id="arc" font-family="CenturyGothic-Italic, Century Gothic" font-size="45" font-style="italic" transform="translate(-10.172 256.736)"><tspan x="0" y="0">arc</tspan></text><text id="mm" font-family="CenturyGothic-Italic, Century Gothic" font-size="45" font-style="italic" transform="translate(-96.36 256.736)"><tspan x="0" y="0">mm</tspan></text><path id="Path_1" fill="red" d="M597.69,161.053h2.283s5.4-10.889,18.345-11.345h.01l-.039-2.02A23.951,23.951,0,0,0,597.69,161.053Z" data-name="Path 1" transform="translate(-611.55 71.388)"/></g></g></svg>

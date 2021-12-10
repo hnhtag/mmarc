@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <defs>
-    <clipPath id="clip-logo-mobile">
-      <rect width="1024" height="1024"/>
-    </clipPath>
-  </defs>
-  <g id="logo-mobile" clip-path="url(#clip-logo-mobile)">
-    <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(12 12)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1000" height="1000" rx="24" stroke="none"/>
-      <rect x="0.5" y="0.5" width="999" height="999" rx="23.5" fill="none"/>
-    </g>
-    <g id="Group_2" data-name="Group 2" transform="translate(-242 -19.736)">
-      <text id="arc" transform="translate(335.721 733.736)" font-size="539" font-family="CenturyGothic-Italic, Century Gothic" font-style="italic"><tspan x="0" y="0">arc</tspan></text>
-      <path id="Path_1" data-name="Path 1" d="M597.69,303.58s26.624,0,26.624,0S687.245,176.566,838.3,171.251c.238-.008.12,0,.12,0l-.454-23.56S676.968,145.42,597.69,303.58Z" transform="translate(-305 137)" fill="red"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024"><defs><clipPath id="clip-logo-mobile"><rect width="1024" height="1024"/></clipPath></defs><g id="logo-mobile" clip-path="url(#clip-logo-mobile)"><g id="Rectangle_48" fill="#fff" stroke="#707070" stroke-width="1" data-name="Rectangle 48" transform="translate(12 12)"><rect width="1000" height="1000" stroke="none" rx="24"/><rect width="999" height="999" x=".5" y=".5" fill="none" rx="23.5"/></g><g id="Group_2" data-name="Group 2" transform="translate(-242 -19.736)"><text id="arc" font-family="CenturyGothic-Italic, Century Gothic" font-size="539" font-style="italic" transform="translate(335.721 733.736)"><tspan x="0" y="0">arc</tspan></text><path id="Path_1" fill="red" d="M597.69,303.58s26.624,0,26.624,0S687.245,176.566,838.3,171.251c.238-.008.12,0,.12,0l-.454-23.56S676.968,145.42,597.69,303.58Z" data-name="Path 1" transform="translate(-305 137)"/></g></g></svg>
